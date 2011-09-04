@@ -1,4 +1,6 @@
 createDailyMetadata       Creates GhcnDaily Metadata.
 WMOmetadata               Creates WMO metadata.
+Landmask                  Creates 500m Land/water mask.
+
 
  
